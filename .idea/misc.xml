@@ -3,15 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_brading.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_categories.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_dashboard.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_inventory.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_lock4.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_login.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_person.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_productlist.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_shop.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/ic_wave.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/round_bg.xml" value="0.209375" />
         <entry key="app/src/main/res/drawable/round_border.xml" value="0.209375" />
-        <entry key="app/src/main/res/layout/activity_dash_board.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/drawable/wavew.xml" value="0.209375" />
+        <entry key="app/src/main/res/layout/activity_dash_board.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_user_registration.xml" value="0.19322916666666667" />
       </map>
