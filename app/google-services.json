@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134004720973",
+    "project_id": "retailpointofsale-c4f4c",
+    "storage_bucket": "retailpointofsale-c4f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134004720973:android:1405bb05283e5bb3386304",
+        "android_client_info": {
+          "package_name": "com.example.shoppos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134004720973-uo54q2s4dds107g07c9gt6j907e94c1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppos",
+            "certificate_hash": "3e8259c40720c7af0b77feb93d3702dc0b71aaf6"
+          }
+        },
+        {
+          "client_id": "134004720973-maesf6hn4a9mkmag9na6tjdlfv47rl20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-CaMqUPeImydo4j88B5dB_id7uM_wmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134004720973-maesf6hn4a9mkmag9na6tjdlfv47rl20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
